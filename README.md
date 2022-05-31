@@ -40,7 +40,7 @@ Aslında bir yanıt kodu çok karşılaşırız mesela 404 ,502
 Bunlardan hangisi geliyorsa onun bir karşılığı var kodların 
 
 Status Başlayan ve devam eden kodların Anlamı
-1.....(Bilgi veren) İşlemi aldı ama hala işlem devam ediyor demek bir nevi 
+1.....(Bilgi veren) İşlemi aldı ama hala işlem devam ediyor demek bir nevi
 2.....(Başarılı)
 3.....(Aksiyon Gerekli)[ikincil şifreleme]
 4.....(Kullanıcı Hatası)404
