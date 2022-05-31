@@ -1,8 +1,13 @@
 # Python Request 
 
-Request = Talep 
+Bazı Anahtar Kelimelerin Türkçe Karşılığı
+
+Request = Talep
+
 Response = Yanıt
+
 Client = Kullanıcı-İstemci 
+
 Server = Sunucu 
 
 
