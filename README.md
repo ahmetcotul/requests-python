@@ -1,4 +1,4 @@
-## Python Request 
+# Python Request 
 
 Request = Talep 
 Response = Yanıt
@@ -6,7 +6,7 @@ Client = Kullanıcı-İstemci
 Server = Sunucu 
 
 
-# TALEP <-> REQUEST
+## TALEP <-> REQUEST
 
 Talep 3'e ayrılır;
 1 - Metot --- HTTP metotları : GET,POST,PUT,DELETE
@@ -28,7 +28,7 @@ ADRES: link internet adresi
 GİRDİ : şifreler entegre edilmelidir bunlar aslında spesifik bir alana ulaşmak için talep için de bir şekilde tanıtabiliriz
 Parametreler : Bir machine learning için veri seti için özel kırılımlara spesifik alt kırılımlara ulaşma sağlanır..
 
-# YANIT <-> RESPONSE
+## YANIT <-> RESPONSE
 
 STATUS KODU:
 Aslında bir yanıt kodu çok karşılaşırız mesela 404 ,502 
